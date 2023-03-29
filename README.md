@@ -1,8 +1,8 @@
-### Olá! Eu sou o Luis Thiago
+### Oi! Eu sou o Luis Thiago
 
-- 🔭 Hoje trabalho com desenvolvimento Full-Stack
-- 🌱 Estudando PHP
-- 😄 Pronouns: ele/dele
+- 💼 Hoje trabalho com desenvolvimento Full-Stack
+- 📈 Estudando PHP
+- ❤️ Eu adoro conhecer pessoas e aprender coisas novas
 
 <div>
   <a href="https://github.com/LuisThiago27">
