@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/LuisThiago27">
-    <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=LuisThiago27&show_icons=true&theme=radical&count_private=true" />
-    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisThiago27&layout=compact&theme=radical" />
+    <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=LuisThiago27&show_icons=true&theme=dark&count_private=true" />
+    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisThiago27&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
 <div style="display: inline-block;"><br>
@@ -34,6 +34,4 @@
     <a href="https://www.linkedin.com/in/luisthiago/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    
-     ![Snake animation](https://github.com/LuisThiago27/LuisThiago27/blob/output/github-contribution-grid-snake.svg)
 </div>
