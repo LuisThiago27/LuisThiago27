@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Luis Thiago
 
 - 💼 Hoje trabalho com desenvolvimento Full-Stack
-- 📈 Estudando PHP
+- 📈 Estudando ReactJS
 - ❤️ Eu adoro conhecer pessoas e aprender coisas novas
 
 <div>
